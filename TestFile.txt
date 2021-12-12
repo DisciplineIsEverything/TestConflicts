@@ -3,3 +3,35 @@ I created a file in my local. and trying to commit to github repository.
 Make some change in branch ConflictsDemo
 In main branch add anohter line
 GOGOGOGO
+
+
+Git Resolve Conflicts In Pull Request | Git Conflicts | Git Merge Conflicts
+
+
+
+Git clone
+
+Git branch conflictdemo
+git checkout conflictdemo
+
+
+Edit the file
+
+Git add .
+
+Git commit -m ‘test’
+
+
+Git branch
+
+Git push origin conflictdemo
+
+
+Create pull request
+
+// pull master to confilictdemo
+
+Git pull origin master
+
+
+Git push origin conflisctdemo
