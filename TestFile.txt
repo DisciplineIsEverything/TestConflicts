@@ -1,2 +1,3 @@
-this is confilict test.
+this is confilict test. in another branch
 I created a file in my local. and trying to commit to github repository.
+Make some change in branch ConflictsDemo
