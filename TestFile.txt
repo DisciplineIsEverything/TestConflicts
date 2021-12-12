@@ -1,2 +1,5 @@
-this is confilict test.
+this is confilict test. I made some edit in main branch
 I created a file in my local. and trying to commit to github repository.
+
+In main branch add anohter line
+GOGOGOGO
