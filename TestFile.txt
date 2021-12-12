@@ -1,5 +1,5 @@
-this is confilict test. I made some edit in main branch
+this is confilict test. in another branch I made some edit in main branch
 I created a file in my local. and trying to commit to github repository.
-
+Make some change in branch ConflictsDemo
 In main branch add anohter line
 GOGOGOGO
